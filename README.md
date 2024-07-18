@@ -28,3 +28,11 @@ O projeto está organizado da seguinte forma:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+   Contato
+Para mais informações, entre em contato com:
+
+Nome: Deise Maria
+E-mail: deise_andrade_paz@hotmail.com
+LinkedIn: https://www.linkedin.com/in/maria-andrade-228028232/
+
